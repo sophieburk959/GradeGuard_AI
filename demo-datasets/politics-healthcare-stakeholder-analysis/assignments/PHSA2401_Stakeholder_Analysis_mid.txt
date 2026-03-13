@@ -1,0 +1,6 @@
+Stakeholder Analysis - PHSA2401
+
+The paper addresses stakeholder conflict in digital triage deployment.
+It identifies concerns from clinicians, health tech vendors, and privacy advocates.
+While stakeholder positions are clear, causal claims are underdeveloped.
+The action plan is practical but lacks evaluation metrics.

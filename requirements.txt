@@ -1,0 +1,12 @@
+# GradeGuard AI - Environment Requirements
+# Note: This is a Node/Next.js project (not Python-based).
+
+Node.js >= 20.0.0
+npm >= 10.0.0
+
+# Recommended OS tooling
+Git >= 2.30
+
+# Install and run
+# npm install
+# npm run dev

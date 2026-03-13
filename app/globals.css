@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-brand-slate text-slate-800;
+}
+
+.panel {
+  @apply rounded-2xl bg-white shadow-card;
+}
+
+.page-title {
+  @apply text-2xl font-semibold text-slate-900;
+}
+
+.page-subtitle {
+  @apply mt-1 text-sm text-slate-500;
+}
